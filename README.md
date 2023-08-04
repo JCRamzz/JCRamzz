@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JC </h1>
-<h3 align="center">Frontend web developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align = "right" alt="Coding" width="350" src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcramzz&label=Profile%20views&color=0e75b6&style=flat" alt="jcramzz" /> </p>
