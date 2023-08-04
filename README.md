@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JC/h1>
+<h1 align="center">Hi 👋, I'm JC </h1>
 <h3 align="center">Frontend web developer</h3>
 <img align = "right" alt="Coding" width="350" src="https://media1.tenor.com/images/f0cd4ea07a8dcaad8480a947be38db13/tenor.gif">
 
